@@ -1,1 +1,1 @@
-## This repo contains Java code practised by me.
+## This repo contains Java code practiced by me.
